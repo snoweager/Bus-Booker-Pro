@@ -1,0 +1,140 @@
+{
+    "navigation": {
+        "home": "Startseite",
+        "search": "Suchen & Buchen",
+        "myAccount": "Mein Konto",
+        "myBookings": "Meine Buchungen",
+        "support": "Support",
+        "signIn": "Anmelden",
+        "signOut": "Abmelden",
+        "dashboard": "Dashboard"
+    },
+    "hero": {
+        "title": "Buchen Sie Ihre Busreise",
+        "subtitle": "Reisen Sie bequem zu Zielen mit vertrauensw\u00fcrdigen Betreibern",
+        "highlight": "Sicher \u2022 Zuverl\u00e4ssig \u2022 Erschwinglich",
+        "trustIndicators": {
+            "travelers": "2M+ Reisende",
+            "routes": "500+ Routen",
+            "rating": "4.8 Bewertung",
+            "onTime": "99.9% P\u00fcnktlich",
+            "departureRate": "Abfahrtsrate"
+        }
+    },
+    "search": {
+        "title": "Finden Sie Ihren Perfekten Bus",
+        "from": "Von",
+        "to": "Nach",
+        "departure": "Abfahrtsdatum",
+        "return": "R\u00fcckkehrdatum",
+        "passengers": "Passagiere",
+        "oneWay": "Einfache Fahrt",
+        "roundTrip": "Hin- und R\u00fcckfahrt",
+        "searchButton": "Busse Suchen",
+        "fromPlaceholder": "Abfahrtsstadt ausw\u00e4hlen",
+        "toPlaceholder": "Zielstadt ausw\u00e4hlen",
+        "swapTooltip": "St\u00e4dte tauschen",
+        "errors": {
+            "from": "Bitte w\u00e4hlen Sie die Abfahrtsstadt",
+            "to": "Bitte w\u00e4hlen Sie die Zielstadt",
+            "departureDate": "Bitte w\u00e4hlen Sie das Abfahrtsdatum",
+            "returnDate": "Bitte w\u00e4hlen Sie das R\u00fcckkehrdatum",
+            "sameCity": "Abfahrts- und Zielstadt k\u00f6nnen nicht identisch sein",
+            "pastDate": "Das Abfahrtsdatum kann nicht in der Vergangenheit liegen"
+        }
+    },
+    "booking": {
+        "confirmation": "Buchungsbest\u00e4tigung",
+        "bookingId": "Buchungs-ID",
+        "journeyDetails": "Reisedetails",
+        "passengerInfo": "Passagierinformationen",
+        "ticketActions": "Ticket-Aktionen",
+        "download": "Ticket Herunterladen",
+        "share": "Teilen",
+        "print": "Drucken",
+        "cancel": "Buchung Stornieren",
+        "modify": "Buchung \u00c4ndern",
+        "importantInfo": "Wichtige Informationen"
+    },
+    "dashboard": {
+        "welcome": "Willkommen zur\u00fcck",
+        "upcomingBookings": "Bevorstehende Buchungen",
+        "recentActivity": "Letzte Aktivit\u00e4t",
+        "quickActions": "Schnellaktionen",
+        "accountSettings": "Kontoeinstellungen",
+        "stats": {
+            "totalBookings": "Gesamtbuchungen",
+            "completedTrips": "Abgeschlossene Reisen",
+            "cancelledBookings": "Storniert",
+            "totalSaved": "Gesamt Gespart"
+        }
+    },
+    "authentication": {
+        "signIn": "Anmelden",
+        "signUp": "Registrieren",
+        "email": "E-Mail",
+        "password": "Passwort",
+        "confirmPassword": "Passwort Best\u00e4tigen",
+        "fullName": "Vollst\u00e4ndiger Name",
+        "phone": "Telefonnummer",
+        "forgotPassword": "Passwort vergessen?",
+        "rememberMe": "Angemeldet bleiben",
+        "orContinueWith": "Oder fortfahren mit",
+        "alreadyHaveAccount": "Haben Sie bereits ein Konto?",
+        "dontHaveAccount": "Haben Sie noch kein Konto?",
+        "createAccount": "Konto Erstellen",
+        "twoFactor": "Zwei-Faktor-Authentifizierung",
+        "enterCode": "Verifizierungscode eingeben",
+        "resendCode": "Code Erneut Senden"
+    },
+    "payment": {
+        "paymentMethod": "Zahlungsmethode",
+        "cardNumber": "Kartennummer",
+        "expiryDate": "Ablaufdatum",
+        "cvv": "CVV",
+        "cardHolder": "Karteninhaber",
+        "billingAddress": "Rechnungsadresse",
+        "summary": "Buchungszusammenfassung",
+        "total": "Gesamt",
+        "payNow": "Jetzt Bezahlen",
+        "processing": "Zahlung wird verarbeitet...",
+        "securityIndicators": "Ihre Zahlung ist mit 256-Bit-SSL-Verschl\u00fcsselung gesichert"
+    },
+    "footer": {
+        "aboutUs": "\u00dcber Uns",
+        "contactUs": "Kontaktieren Sie Uns",
+        "careers": "Karrieren",
+        "privacyPolicy": "Datenschutzrichtlinie",
+        "termsOfService": "Nutzungsbedingungen",
+        "faq": "FAQ",
+        "blog": "Blog",
+        "pressRoom": "Presseraum",
+        "customerSupport": "Kundensupport",
+        "partnerWithUs": "Partner Werden",
+        "copyright": "\u00a9 2025 BusBooker Pro. Alle Rechte vorbehalten.",
+        "followUs": "Folgen Sie Uns"
+    },
+    "common": {
+        "loading": "Laden...",
+        "error": "Fehler",
+        "success": "Erfolg",
+        "warning": "Warnung",
+        "info": "Information",
+        "close": "Schlie\u00dfen",
+        "cancel": "Abbrechen",
+        "confirm": "Best\u00e4tigen",
+        "save": "Speichern",
+        "edit": "Bearbeiten",
+        "delete": "L\u00f6schen",
+        "view": "Ansehen",
+        "download": "Herunterladen",
+        "upload": "Hochladen",
+        "search": "Suchen",
+        "filter": "Filter",
+        "sort": "Sortieren",
+        "next": "Weiter",
+        "previous": "Zur\u00fcck",
+        "yes": "Ja",
+        "no": "Nein"
+    }
+}

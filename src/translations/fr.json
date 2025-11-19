@@ -1,0 +1,140 @@
+{
+    "navigation": {
+        "home": "Accueil",
+        "search": "Rechercher et R\u00e9server",
+        "myAccount": "Mon Compte",
+        "myBookings": "Mes R\u00e9servations",
+        "support": "Support",
+        "signIn": "Se Connecter",
+        "signOut": "Se D\u00e9connecter",
+        "dashboard": "Tableau de Bord"
+    },
+    "hero": {
+        "title": "R\u00e9servez votre Voyage en Bus",
+        "subtitle": "Voyagez confortablement vers des destinations avec des op\u00e9rateurs de confiance",
+        "highlight": "S\u00fbr \u2022 Fiable \u2022 Abordable",
+        "trustIndicators": {
+            "travelers": "2M+ Voyageurs",
+            "routes": "500+ Itin\u00e9raires",
+            "rating": "4.8 \u00c9valuation",
+            "onTime": "99.9% \u00c0 l'Heure",
+            "departureRate": "Taux de D\u00e9part"
+        }
+    },
+    "search": {
+        "title": "Trouvez votre Bus Parfait",
+        "from": "De",
+        "to": "\u00c0",
+        "departure": "Date de D\u00e9part",
+        "return": "Date de Retour",
+        "passengers": "Passagers",
+        "oneWay": "Aller Simple",
+        "roundTrip": "Aller-Retour",
+        "searchButton": "Rechercher des Bus",
+        "fromPlaceholder": "S\u00e9lectionner la ville de d\u00e9part",
+        "toPlaceholder": "S\u00e9lectionner la ville de destination",
+        "swapTooltip": "\u00c9changer les villes",
+        "errors": {
+            "from": "Veuillez s\u00e9lectionner la ville de d\u00e9part",
+            "to": "Veuillez s\u00e9lectionner la ville de destination",
+            "departureDate": "Veuillez s\u00e9lectionner la date de d\u00e9part",
+            "returnDate": "Veuillez s\u00e9lectionner la date de retour",
+            "sameCity": "Les villes de d\u00e9part et de destination ne peuvent pas \u00eatre identiques",
+            "pastDate": "La date de d\u00e9part ne peut pas \u00eatre dans le pass\u00e9"
+        }
+    },
+    "booking": {
+        "confirmation": "Confirmation de R\u00e9servation",
+        "bookingId": "ID de R\u00e9servation",
+        "journeyDetails": "D\u00e9tails du Voyage",
+        "passengerInfo": "Informations Passager",
+        "ticketActions": "Actions de Billet",
+        "download": "T\u00e9l\u00e9charger le Billet",
+        "share": "Partager",
+        "print": "Imprimer",
+        "cancel": "Annuler la R\u00e9servation",
+        "modify": "Modifier la R\u00e9servation",
+        "importantInfo": "Informations Importantes"
+    },
+    "dashboard": {
+        "welcome": "Bon retour",
+        "upcomingBookings": "R\u00e9servations \u00e0 Venir",
+        "recentActivity": "Activit\u00e9 R\u00e9cente",
+        "quickActions": "Actions Rapides",
+        "accountSettings": "Param\u00e8tres du Compte",
+        "stats": {
+            "totalBookings": "Total des R\u00e9servations",
+            "completedTrips": "Voyages Termin\u00e9s",
+            "cancelledBookings": "Annul\u00e9es",
+            "totalSaved": "Total \u00c9conomis\u00e9"
+        }
+    },
+    "authentication": {
+        "signIn": "Se Connecter",
+        "signUp": "S'Inscrire",
+        "email": "Email",
+        "password": "Mot de Passe",
+        "confirmPassword": "Confirmer le Mot de Passe",
+        "fullName": "Nom Complet",
+        "phone": "Num\u00e9ro de T\u00e9l\u00e9phone",
+        "forgotPassword": "Mot de passe oubli\u00e9 ?",
+        "rememberMe": "Se souvenir de moi",
+        "orContinueWith": "Ou continuer avec",
+        "alreadyHaveAccount": "Vous avez d\u00e9j\u00e0 un compte ?",
+        "dontHaveAccount": "Vous n'avez pas de compte ?",
+        "createAccount": "Cr\u00e9er un Compte",
+        "twoFactor": "Authentification \u00e0 Deux Facteurs",
+        "enterCode": "Entrez le code de v\u00e9rification",
+        "resendCode": "Renvoyer le Code"
+    },
+    "payment": {
+        "paymentMethod": "M\u00e9thode de Paiement",
+        "cardNumber": "Num\u00e9ro de Carte",
+        "expiryDate": "Date d'Expiration",
+        "cvv": "CVV",
+        "cardHolder": "Nom du Titulaire",
+        "billingAddress": "Adresse de Facturation",
+        "summary": "R\u00e9sum\u00e9 de R\u00e9servation",
+        "total": "Total",
+        "payNow": "Payer Maintenant",
+        "processing": "Traitement du Paiement...",
+        "securityIndicators": "Votre paiement est s\u00e9curis\u00e9 avec un cryptage SSL 256 bits"
+    },
+    "footer": {
+        "aboutUs": "\u00c0 Propos de Nous",
+        "contactUs": "Nous Contacter",
+        "careers": "Carri\u00e8res",
+        "privacyPolicy": "Politique de Confidentialit\u00e9",
+        "termsOfService": "Conditions de Service",
+        "faq": "FAQ",
+        "blog": "Blog",
+        "pressRoom": "Salle de Presse",
+        "customerSupport": "Support Client",
+        "partnerWithUs": "Partenaire avec Nous",
+        "copyright": "\u00a9 2025 BusBooker Pro. Tous droits r\u00e9serv\u00e9s.",
+        "followUs": "Suivez-Nous"
+    },
+    "common": {
+        "loading": "Chargement...",
+        "error": "Erreur",
+        "success": "Succ\u00e8s",
+        "warning": "Avertissement",
+        "info": "Information",
+        "close": "Fermer",
+        "cancel": "Annuler",
+        "confirm": "Confirmer",
+        "save": "Enregistrer",
+        "edit": "Modifier",
+        "delete": "Supprimer",
+        "view": "Voir",
+        "download": "T\u00e9l\u00e9charger",
+        "upload": "T\u00e9l\u00e9verser",
+        "search": "Rechercher",
+        "filter": "Filtrer",
+        "sort": "Trier",
+        "next": "Suivant",
+        "previous": "Pr\u00e9c\u00e9dent",
+        "yes": "Oui",
+        "no": "Non"
+    }
+}

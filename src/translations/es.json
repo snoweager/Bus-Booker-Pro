@@ -1,0 +1,140 @@
+{
+    "navigation": {
+        "home": "Inicio",
+        "search": "Buscar y Reservar",
+        "myAccount": "Mi Cuenta",
+        "myBookings": "Mis Reservas",
+        "support": "Soporte",
+        "signIn": "Iniciar Sesi\u00f3n",
+        "signOut": "Cerrar Sesi\u00f3n",
+        "dashboard": "Panel"
+    },
+    "hero": {
+        "title": "Reserva tu Viaje en Autob\u00fas",
+        "subtitle": "Viaja c\u00f3modamente a trav\u00e9s de destinos con operadores confiables",
+        "highlight": "Seguro \u2022 Confiable \u2022 Asequible",
+        "trustIndicators": {
+            "travelers": "2M+ Viajeros",
+            "routes": "500+ Rutas",
+            "rating": "4.8 Valoraci\u00f3n",
+            "onTime": "99.9% Puntual",
+            "departureRate": "Tasa de Salida"
+        }
+    },
+    "search": {
+        "title": "Encuentra tu Autob\u00fas Perfecto",
+        "from": "Desde",
+        "to": "Hasta",
+        "departure": "Fecha de Salida",
+        "return": "Fecha de Regreso",
+        "passengers": "Pasajeros",
+        "oneWay": "Solo Ida",
+        "roundTrip": "Ida y Vuelta",
+        "searchButton": "Buscar Autobuses",
+        "fromPlaceholder": "Seleccionar ciudad de salida",
+        "toPlaceholder": "Seleccionar ciudad de destino",
+        "swapTooltip": "Intercambiar ciudades",
+        "errors": {
+            "from": "Por favor seleccione la ciudad de salida",
+            "to": "Por favor seleccione la ciudad de destino",
+            "departureDate": "Por favor seleccione la fecha de salida",
+            "returnDate": "Por favor seleccione la fecha de regreso",
+            "sameCity": "Las ciudades de salida y destino no pueden ser las mismas",
+            "pastDate": "La fecha de salida no puede ser en el pasado"
+        }
+    },
+    "booking": {
+        "confirmation": "Confirmaci\u00f3n de Reserva",
+        "bookingId": "ID de Reserva",
+        "journeyDetails": "Detalles del Viaje",
+        "passengerInfo": "Informaci\u00f3n del Pasajero",
+        "ticketActions": "Acciones del Boleto",
+        "download": "Descargar Boleto",
+        "share": "Compartir",
+        "print": "Imprimir",
+        "cancel": "Cancelar Reserva",
+        "modify": "Modificar Reserva",
+        "importantInfo": "Informaci\u00f3n Importante"
+    },
+    "dashboard": {
+        "welcome": "Bienvenido de nuevo",
+        "upcomingBookings": "Pr\u00f3ximas Reservas",
+        "recentActivity": "Actividad Reciente",
+        "quickActions": "Acciones R\u00e1pidas",
+        "accountSettings": "Configuraci\u00f3n de Cuenta",
+        "stats": {
+            "totalBookings": "Total de Reservas",
+            "completedTrips": "Viajes Completados",
+            "cancelledBookings": "Canceladas",
+            "totalSaved": "Total Ahorrado"
+        }
+    },
+    "authentication": {
+        "signIn": "Iniciar Sesi\u00f3n",
+        "signUp": "Registrarse",
+        "email": "Correo Electr\u00f3nico",
+        "password": "Contrase\u00f1a",
+        "confirmPassword": "Confirmar Contrase\u00f1a",
+        "fullName": "Nombre Completo",
+        "phone": "N\u00famero de Tel\u00e9fono",
+        "forgotPassword": "\u00bfOlvidaste tu contrase\u00f1a?",
+        "rememberMe": "Recordarme",
+        "orContinueWith": "O contin\u00faa con",
+        "alreadyHaveAccount": "\u00bfYa tienes cuenta?",
+        "dontHaveAccount": "\u00bfNo tienes cuenta?",
+        "createAccount": "Crear Cuenta",
+        "twoFactor": "Autenticaci\u00f3n de Dos Factores",
+        "enterCode": "Ingresa el c\u00f3digo de verificaci\u00f3n",
+        "resendCode": "Reenviar C\u00f3digo"
+    },
+    "payment": {
+        "paymentMethod": "M\u00e9todo de Pago",
+        "cardNumber": "N\u00famero de Tarjeta",
+        "expiryDate": "Fecha de Vencimiento",
+        "cvv": "CVV",
+        "cardHolder": "Nombre del Titular",
+        "billingAddress": "Direcci\u00f3n de Facturaci\u00f3n",
+        "summary": "Resumen de Reserva",
+        "total": "Total",
+        "payNow": "Pagar Ahora",
+        "processing": "Procesando Pago...",
+        "securityIndicators": "Tu pago est\u00e1 protegido con encriptaci\u00f3n SSL de 256 bits"
+    },
+    "footer": {
+        "aboutUs": "Acerca de Nosotros",
+        "contactUs": "Cont\u00e1ctanos",
+        "careers": "Carreras",
+        "privacyPolicy": "Pol\u00edtica de Privacidad",
+        "termsOfService": "T\u00e9rminos de Servicio",
+        "faq": "Preguntas Frecuentes",
+        "blog": "Blog",
+        "pressRoom": "Sala de Prensa",
+        "customerSupport": "Soporte al Cliente",
+        "partnerWithUs": "Asociarse con Nosotros",
+        "copyright": "\u00a9 2025 BusBooker Pro. Todos los derechos reservados.",
+        "followUs": "S\u00edguenos"
+    },
+    "common": {
+        "loading": "Cargando...",
+        "error": "Error",
+        "success": "\u00c9xito",
+        "warning": "Advertencia",
+        "info": "Informaci\u00f3n",
+        "close": "Cerrar",
+        "cancel": "Cancelar",
+        "confirm": "Confirmar",
+        "save": "Guardar",
+        "edit": "Editar",
+        "delete": "Eliminar",
+        "view": "Ver",
+        "download": "Descargar",
+        "upload": "Subir",
+        "search": "Buscar",
+        "filter": "Filtrar",
+        "sort": "Ordenar",
+        "next": "Siguiente",
+        "previous": "Anterior",
+        "yes": "S\u00ed",
+        "no": "No"
+    }
+}
