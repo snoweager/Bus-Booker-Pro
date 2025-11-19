@@ -1,0 +1,6 @@
+BusBooker Pro Ticket
+
+Booking Reference: BBM61RL14H
+Route: New York, NY to Washington, DC
+Date: October 20, 2025
+Time: 08:30 AM
